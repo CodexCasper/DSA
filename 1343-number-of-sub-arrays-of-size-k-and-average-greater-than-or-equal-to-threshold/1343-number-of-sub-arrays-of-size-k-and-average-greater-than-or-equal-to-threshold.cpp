@@ -1,0 +1,47 @@
+class Solution {
+public:
+    int numOfSubarrays(vector<int>& arr, int k, int threshold) {
+       /* int n = arr.size();
+        int count = 0;
+        int maxT = k * threshold;
+        
+        ///TC: O(n*k) or O(n*n) and SC:O(1)
+        for(int i = 0 ; i <= n - k ; i++){
+            int requiredsum = 0;
+
+            for(int j = i ; j < i + k ; j++){
+            requiredsum += arr[j];
+            }
+            
+            if( requiredsum >= maxT ){
+                count += 1;
+            }
+        }
+        return count;
+        */
+
+        int n = arr.size();
+        long long sum = 0;
+        int maxT = k * threshold;
+        int count = 0;
+
+        for(int i = 0 ; i < k ; i++){
+            sum += arr[i]; // 6
+        }
+
+        if( sum >= maxT ) count += 1;
+
+        int left = 0 , right = k;
+
+        while( right < n ){
+
+                sum -= arr[left];
+                left++;
+
+                sum += arr[right];
+                right++;
+                if( sum >= maxT ) count += 1;
+        }
+        return count;
+    }
+};
