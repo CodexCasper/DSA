@@ -1,0 +1,47 @@
+class Solution {
+public:
+    int maxFrequency(vector<int>& nums, int k) {
+        /*
+        int freq = 0;
+        int n = nums.size();
+
+        sort(nums.begin(),nums.end());
+
+        TC:O(n*n) , SC:O(log n)
+        for(int i = 0 ; i < n ; i++){
+
+            long long subarrSum = 0;
+            for(int j = i ; j < n ; j++){
+                subarrSum += nums[j];
+
+                long long SumUntilEnd = nums[j] * (j - i + 1);
+
+                long long x = SumUntilEnd - subarrSum;
+
+                if( x > k ) break;
+            
+            freq = max(freq, j - i + 1);
+            }
+        }
+        return freq;
+        */
+
+        sort(nums.begin(),nums.end());
+        long long sum = 0;
+        int ans = 0;
+        int left = 0,
+            right = 0;
+
+            while( right < nums.size() ){
+                sum += nums[right];
+
+                 while((long long)nums[right] * (right - left + 1) - sum > k) {
+                    sum -= nums[left];
+                    left ++;
+                }
+                ans = max(ans, right - left + 1);
+                right ++;
+            }
+            return ans;
+    }
+};
