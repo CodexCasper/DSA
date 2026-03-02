@@ -52,4 +52,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0457-circular-array-loop](https://github.com/CodexCasper/DSA/tree/main/0457-circular-array-loop/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/CodexCasper/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/CodexCasper/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
