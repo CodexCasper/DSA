@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/CodexCasper/DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0143-reorder-list](https://github.com/CodexCasper/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/CodexCasper/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0725-split-linked-list-in-parts](https://github.com/CodexCasper/DSA/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/CodexCasper/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/CodexCasper/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
