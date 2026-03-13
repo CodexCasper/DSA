@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/CodexCasper/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0725-split-linked-list-in-parts](https://github.com/CodexCasper/DSA/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/CodexCasper/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/CodexCasper/DSA/tree/main/2074-reverse-nodes-in-even-length-groups/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/CodexCasper/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
