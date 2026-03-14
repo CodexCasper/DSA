@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/CodexCasper/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/CodexCasper/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/CodexCasper/DSA/tree/main/0457-circular-array-loop/) | Medium |
 ## String
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/CodexCasper/DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/CodexCasper/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/CodexCasper/DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/CodexCasper/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/CodexCasper/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/CodexCasper/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0725-split-linked-list-in-parts](https://github.com/CodexCasper/DSA/tree/main/0725-split-linked-list-in-parts/) | Medium |
