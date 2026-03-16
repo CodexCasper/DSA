@@ -78,8 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/CodexCasper/DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/CodexCasper/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/CodexCasper/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [1922-count-good-numbers](https://github.com/CodexCasper/DSA/tree/main/1922-count-good-numbers/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/CodexCasper/DSA/tree/main/0143-reorder-list/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1922-count-good-numbers](https://github.com/CodexCasper/DSA/tree/main/1922-count-good-numbers/) | Medium |
 <!---LeetCode Topics End-->
