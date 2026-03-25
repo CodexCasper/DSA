@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/CodexCasper/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/CodexCasper/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CodexCasper/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/CodexCasper/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/CodexCasper/DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0457-circular-array-loop](https://github.com/CodexCasper/DSA/tree/main/0457-circular-array-loop/) | Medium |
 | [0704-binary-search](https://github.com/CodexCasper/DSA/tree/master/0704-binary-search) |
@@ -96,5 +97,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/CodexCasper/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/CodexCasper/DSA/tree/main/0040-combination-sum-ii/) | Medium |
+| [0090-subsets-ii](https://github.com/CodexCasper/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/CodexCasper/DSA/tree/main/0216-combination-sum-iii/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0090-subsets-ii](https://github.com/CodexCasper/DSA/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
