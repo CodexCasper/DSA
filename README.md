@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/CodexCasper/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/CodexCasper/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/CodexCasper/DSA/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/CodexCasper/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0079-word-search](https://github.com/CodexCasper/DSA/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CodexCasper/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/CodexCasper/DSA/tree/main/0090-subsets-ii/) | Medium |
@@ -126,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/CodexCasper/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0079-word-search](https://github.com/CodexCasper/DSA/tree/main/0079-word-search/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/CodexCasper/DSA/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/CodexCasper/DSA/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
