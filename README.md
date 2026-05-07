@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/CodexCasper/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/CodexCasper/DSA/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/CodexCasper/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0204-count-primes](https://github.com/CodexCasper/DSA/tree/main/0204-count-primes/) | Medium |
 | [0216-combination-sum-iii](https://github.com/CodexCasper/DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0457-circular-array-loop](https://github.com/CodexCasper/DSA/tree/main/0457-circular-array-loop/) | Medium |
 | [0525-contiguous-array](https://github.com/CodexCasper/DSA/tree/main/0525-contiguous-array/) | Medium |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/CodexCasper/DSA/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/CodexCasper/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0282-expression-add-operators](https://github.com/CodexCasper/DSA/tree/main/0282-expression-add-operators/) | Hard |
 | [1922-count-good-numbers](https://github.com/CodexCasper/DSA/tree/main/1922-count-good-numbers/) | Medium |
@@ -169,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/CodexCasper/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/CodexCasper/DSA/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/CodexCasper/DSA/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
