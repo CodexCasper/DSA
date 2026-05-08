@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/CodexCasper/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/CodexCasper/DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/CodexCasper/DSA/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/CodexCasper/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/CodexCasper/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/CodexCasper/DSA/tree/main/0231-power-of-two/) | Easy |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/CodexCasper/DSA/tree/main/0050-powx-n/) | Medium |
 | [0204-count-primes](https://github.com/CodexCasper/DSA/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/CodexCasper/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0282-expression-add-operators](https://github.com/CodexCasper/DSA/tree/main/0282-expression-add-operators/) | Hard |
