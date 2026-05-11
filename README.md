@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/CodexCasper/DSA/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0020-valid-parentheses](https://github.com/CodexCasper/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0079-word-search](https://github.com/CodexCasper/DSA/tree/main/0079-word-search/) | Medium |
 | [0282-expression-add-operators](https://github.com/CodexCasper/DSA/tree/main/0282-expression-add-operators/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/CodexCasper/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/CodexCasper/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/CodexCasper/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/CodexCasper/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/CodexCasper/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
