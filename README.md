@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/CodexCasper/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/CodexCasper/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/CodexCasper/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/CodexCasper/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/CodexCasper/DSA/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/CodexCasper/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/CodexCasper/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0079-word-search](https://github.com/CodexCasper/DSA/tree/main/0079-word-search/) | Medium |
 | [0282-expression-add-operators](https://github.com/CodexCasper/DSA/tree/main/0282-expression-add-operators/) | Hard |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/CodexCasper/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/CodexCasper/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/CodexCasper/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/CodexCasper/DSA/tree/main/0040-combination-sum-ii/) | Medium |
