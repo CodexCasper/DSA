@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/CodexCasper/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/CodexCasper/DSA/tree/main/0050-powx-n/) | Medium |
 | [0204-count-primes](https://github.com/CodexCasper/DSA/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/CodexCasper/DSA/tree/main/0231-power-of-two/) | Easy |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/CodexCasper/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/CodexCasper/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/CodexCasper/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/CodexCasper/DSA/tree/main/0136-single-number/) | Easy |
