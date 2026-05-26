@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/CodexCasper/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/CodexCasper/DSA/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/CodexCasper/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CodexCasper/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/CodexCasper/DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CodexCasper/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/CodexCasper/DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/CodexCasper/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/CodexCasper/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/CodexCasper/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CodexCasper/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CodexCasper/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/CodexCasper/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/CodexCasper/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/CodexCasper/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CodexCasper/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CodexCasper/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 | Problem Name | Difficulty |
