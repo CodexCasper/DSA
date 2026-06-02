@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/CodexCasper/DSA/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/CodexCasper/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0204-count-primes](https://github.com/CodexCasper/DSA/tree/main/0204-count-primes/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/CodexCasper/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/CodexCasper/DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/CodexCasper/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0457-circular-array-loop](https://github.com/CodexCasper/DSA/tree/main/0457-circular-array-loop/) | Medium |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/CodexCasper/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CodexCasper/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/CodexCasper/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/CodexCasper/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/CodexCasper/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -279,9 +282,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/CodexCasper/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/CodexCasper/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/CodexCasper/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/CodexCasper/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
