@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/CodexCasper/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/CodexCasper/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/CodexCasper/DSA/tree/main/0735-asteroid-collision/) | Medium |
+| [0846-hand-of-straights](https://github.com/CodexCasper/DSA/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/CodexCasper/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/CodexCasper/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/CodexCasper/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -75,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/CodexCasper/DSA/tree/main/0402-remove-k-digits/) | Medium |
+| [0846-hand-of-straights](https://github.com/CodexCasper/DSA/tree/main/0846-hand-of-straights/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CodexCasper/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodexCasper/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0846-hand-of-straights](https://github.com/CodexCasper/DSA/tree/main/0846-hand-of-straights/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/CodexCasper/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CodexCasper/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/CodexCasper/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/CodexCasper/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/CodexCasper/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0846-hand-of-straights](https://github.com/CodexCasper/DSA/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/CodexCasper/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/CodexCasper/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/CodexCasper/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
