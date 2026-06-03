@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/CodexCasper/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/CodexCasper/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/CodexCasper/DSA/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/CodexCasper/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/CodexCasper/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CodexCasper/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/CodexCasper/DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodexCasper/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/CodexCasper/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CodexCasper/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/CodexCasper/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/CodexCasper/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/CodexCasper/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1331-rank-transform-of-an-array](https://github.com/CodexCasper/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/CodexCasper/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## String
 | Problem Name | Difficulty |
