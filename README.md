@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/CodexCasper/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0076-minimum-window-substring](https://github.com/CodexCasper/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/CodexCasper/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0355-design-twitter](https://github.com/CodexCasper/DSA/tree/main/0355-design-twitter/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/CodexCasper/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/CodexCasper/DSA/tree/main/0457-circular-array-loop/) | Medium |
 | [0460-lfu-cache](https://github.com/CodexCasper/DSA/tree/main/0460-lfu-cache/) | Hard |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/CodexCasper/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/CodexCasper/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/CodexCasper/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0355-design-twitter](https://github.com/CodexCasper/DSA/tree/main/0355-design-twitter/) | Medium |
 | [0460-lfu-cache](https://github.com/CodexCasper/DSA/tree/main/0460-lfu-cache/) | Hard |
 | [0725-split-linked-list-in-parts](https://github.com/CodexCasper/DSA/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/CodexCasper/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/CodexCasper/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/CodexCasper/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0355-design-twitter](https://github.com/CodexCasper/DSA/tree/main/0355-design-twitter/) | Medium |
 | [0460-lfu-cache](https://github.com/CodexCasper/DSA/tree/main/0460-lfu-cache/) | Hard |
 | [0901-online-stock-span](https://github.com/CodexCasper/DSA/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/CodexCasper/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodexCasper/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/CodexCasper/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0355-design-twitter](https://github.com/CodexCasper/DSA/tree/main/0355-design-twitter/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
