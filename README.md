@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/CodexCasper/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/CodexCasper/DSA/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/CodexCasper/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/CodexCasper/DSA/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/CodexCasper/DSA/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/CodexCasper/DSA/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CodexCasper/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/CodexCasper/DSA/tree/main/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/CodexCasper/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/CodexCasper/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/CodexCasper/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/CodexCasper/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/CodexCasper/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/CodexCasper/DSA/tree/main/0055-jump-game/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/CodexCasper/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/CodexCasper/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/CodexCasper/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
