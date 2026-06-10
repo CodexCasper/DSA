@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CodexCasper/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CodexCasper/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/CodexCasper/DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0135-candy](https://github.com/CodexCasper/DSA/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/CodexCasper/DSA/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/CodexCasper/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0204-count-primes](https://github.com/CodexCasper/DSA/tree/main/0204-count-primes/) | Medium |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/CodexCasper/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/CodexCasper/DSA/tree/main/0055-jump-game/) | Medium |
+| [0135-candy](https://github.com/CodexCasper/DSA/tree/main/0135-candy/) | Hard |
 | [0402-remove-k-digits](https://github.com/CodexCasper/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/CodexCasper/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/CodexCasper/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
