@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/CodexCasper/DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/CodexCasper/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/CodexCasper/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/CodexCasper/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/CodexCasper/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0457-circular-array-loop](https://github.com/CodexCasper/DSA/tree/main/0457-circular-array-loop/) | Medium |
 | [0496-next-greater-element-i](https://github.com/CodexCasper/DSA/tree/main/0496-next-greater-element-i/) | Easy |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/CodexCasper/DSA/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/CodexCasper/DSA/tree/main/0135-candy/) | Hard |
 | [0402-remove-k-digits](https://github.com/CodexCasper/DSA/tree/main/0402-remove-k-digits/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/CodexCasper/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/CodexCasper/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/CodexCasper/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/CodexCasper/DSA/tree/main/0846-hand-of-straights/) | Medium |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/CodexCasper/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/CodexCasper/DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/CodexCasper/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/CodexCasper/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/CodexCasper/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0846-hand-of-straights](https://github.com/CodexCasper/DSA/tree/main/0846-hand-of-straights/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/CodexCasper/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/CodexCasper/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/CodexCasper/DSA/tree/main/0055-jump-game/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/CodexCasper/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/CodexCasper/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/CodexCasper/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/CodexCasper/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/CodexCasper/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
