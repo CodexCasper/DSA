@@ -10,22 +10,19 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-         // Base case
-        if (root == NULL || root == p || root == q) {
+        //TC:O(N) bcoz we visited every node
+        //SC:O(h) recursion will store max the hieght at a time 
+        if(root == nullptr || root == p || root == q){
             return root;
         }
-        
-        // Search in left and right subtrees
-        TreeNode* left = lowestCommonAncestor(root->left, p, q);
-        TreeNode* right = lowestCommonAncestor(root->right, p, q);
-        
-        // Result
-        if (left == NULL) {
+
+        TreeNode* left = lowestCommonAncestor(root -> left , p , q);
+        TreeNode* right = lowestCommonAncestor(root -> right , p , q);
+
+        if(left == nullptr){
             return right;
-        } else if (right == NULL) {
+        } else if ( right == nullptr) {
             return left;
-        } else { // Both left and right are not null, we found our result
-            return root;
-        }
+        } else return root;
     }
 };
