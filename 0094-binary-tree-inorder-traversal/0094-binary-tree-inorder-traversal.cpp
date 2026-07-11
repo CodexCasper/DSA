@@ -12,33 +12,31 @@
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-        /*
-        vector<int> ans;
-        inorder(root , ans);
-        return ans;
-    */
-    //TC:O(n) , SC:O(h) worst O(n) , balanced :O(h = log n)
-    vector<int> ans;
-    stack<TreeNode*> st;
-
-    while(root != nullptr || !st.empty()){
-        while(root != nullptr){
-            st.push(root);
-            root = root->left;
+        //MORRIS APPROACH
+        //TC:O(n) , SC:O(1)
+        vector<int> inorder;
+        TreeNode* curr = root;
+        while(curr != NULL){
+            if(curr -> left == NULL){
+                inorder.push_back(curr -> val);
+                curr = curr -> right;
+            }
+            else {
+                TreeNode* prev = curr -> left;
+                while(prev -> right && prev -> right != curr){
+                    prev = prev -> right;
+                }
+                if(prev -> right == NULL){
+                    prev -> right = curr;
+                    curr = curr -> left;
+                }
+                else {
+                    prev -> right = NULL;
+                    inorder.push_back(curr->val);
+                    curr = curr -> right;
+                }
+            }
         }
-        root = st.top();
-        st.pop();
-        ans.push_back(root->val);
-        root = root->right;
+        return inorder;
     }
-    return ans;
-    }
-private:
-    void inorder(TreeNode* root , vector<int> &ans) {
-        if(root == NULL) return;
-
-        inorder(root->left , ans);
-        ans.push_back(root->val);
-        inorder(root->right, ans);
-    }    
 };
