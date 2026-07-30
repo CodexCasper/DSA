@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/CodexCasper/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/CodexCasper/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/CodexCasper/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/CodexCasper/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/CodexCasper/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/CodexCasper/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/CodexCasper/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/CodexCasper/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/CodexCasper/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0846-hand-of-straights](https://github.com/CodexCasper/DSA/tree/main/0846-hand-of-straights/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/CodexCasper/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/CodexCasper/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CodexCasper/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/CodexCasper/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0457-circular-array-loop](https://github.com/CodexCasper/DSA/tree/main/0457-circular-array-loop/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CodexCasper/DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/CodexCasper/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/CodexCasper/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/CodexCasper/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Linked List
