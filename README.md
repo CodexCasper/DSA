@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/CodexCasper/DSA/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/CodexCasper/DSA/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/CodexCasper/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0200-number-of-islands](https://github.com/CodexCasper/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/CodexCasper/DSA/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodexCasper/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/CodexCasper/DSA/tree/main/0216-combination-sum-iii/) | Medium |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/CodexCasper/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/CodexCasper/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/CodexCasper/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/CodexCasper/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CodexCasper/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CodexCasper/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/CodexCasper/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0079-word-search](https://github.com/CodexCasper/DSA/tree/main/0079-word-search/) | Medium |
+| [0200-number-of-islands](https://github.com/CodexCasper/DSA/tree/main/0200-number-of-islands/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CodexCasper/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/CodexCasper/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/CodexCasper/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CodexCasper/DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -518,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/CodexCasper/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/CodexCasper/DSA/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
