@@ -17,40 +17,41 @@ int calcNextIdx(vector<int> &nums , int curr) {
         int n = nums.size();
         for(int i = 0 ; i < n ; i++) {
             if(nums[i] == 0) continue;
-            unordered_set<int> st;
-            st.insert(i);
+            
             bool isPos = nums[i] > 0;
+            int slow = i;
+            int fast = i;
 
-            int curr = i;
-            while(true) {
-                int next = calcNextIdx(nums , curr);
+            do {
+                slow = calcNextIdx(nums , slow);
+                fast = calcNextIdx(nums , fast);
+
                 if(isPos) {
-                    if(nums[next] < 0) {
+                    if(nums[fast] < 0) 
                         break;
-                    }
-                    else {
-                        if(st.contains(next)){
-                            if(curr != next) return true;
-                            else break;
-                        } 
-                        st.insert(next);
-                    }
+                } else {
+                    if(nums[fast] > 0) break;
                 }
-                else {
-                    if(nums[next] > 0) {
+
+                fast = calcNextIdx(nums , fast);
+                
+                if(isPos) {
+                    if(nums[fast] < 0) 
                         break;
-                    }
-                    else {
-                        if(st.contains(next)){
-                            if(curr != next) return true;
-                            else break;
-                        }
-                        st.insert(next);
-                    }
+                } else {
+                    if(nums[fast] > 0) break;
                 }
-                curr = next;
-            }
-            curr = i;
+
+                if(slow == fast){
+                    //cycle isthere
+                    if(slow != calcNextIdx(nums , slow)) {
+                        return true;
+                    }
+                    break;
+                }
+            } while( slow != fast);
+          
+            int curr = i;
 
             if(isPos) {
                 while(nums[curr] > 0) {
