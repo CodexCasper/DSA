@@ -551,4 +551,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/CodexCasper/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0457-circular-array-loop](https://github.com/CodexCasper/DSA/tree/main/0457-circular-array-loop/) | Medium |
 <!---LeetCode Topics End-->
