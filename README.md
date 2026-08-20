@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/CodexCasper/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CodexCasper/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/CodexCasper/DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1765-map-of-highest-peak](https://github.com/CodexCasper/DSA/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CodexCasper/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/CodexCasper/DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Sliding Window
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/CodexCasper/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/CodexCasper/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/CodexCasper/DSA/tree/main/0994-rotting-oranges/) | Medium |
+| [1765-map-of-highest-peak](https://github.com/CodexCasper/DSA/tree/main/1765-map-of-highest-peak/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/CodexCasper/DSA/tree/main/0994-rotting-oranges/) | Medium |
+| [1765-map-of-highest-peak](https://github.com/CodexCasper/DSA/tree/main/1765-map-of-highest-peak/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CodexCasper/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
