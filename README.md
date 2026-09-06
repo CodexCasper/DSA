@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/CodexCasper/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/CodexCasper/DSA/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/CodexCasper/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/CodexCasper/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/CodexCasper/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/CodexCasper/DSA/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/CodexCasper/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/CodexCasper/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -559,12 +561,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/CodexCasper/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/CodexCasper/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/CodexCasper/DSA/tree/main/0695-max-area-of-island/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/CodexCasper/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/CodexCasper/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/CodexCasper/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/CodexCasper/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/CodexCasper/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/CodexCasper/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -589,4 +593,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/CodexCasper/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/CodexCasper/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/CodexCasper/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
