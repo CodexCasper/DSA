@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/CodexCasper/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/CodexCasper/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0886-possible-bipartition](https://github.com/CodexCasper/DSA/tree/main/0886-possible-bipartition/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/CodexCasper/DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CodexCasper/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/CodexCasper/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/CodexCasper/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0886-possible-bipartition](https://github.com/CodexCasper/DSA/tree/main/0886-possible-bipartition/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/CodexCasper/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/CodexCasper/DSA/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/CodexCasper/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/CodexCasper/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/CodexCasper/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0886-possible-bipartition](https://github.com/CodexCasper/DSA/tree/main/0886-possible-bipartition/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/CodexCasper/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/CodexCasper/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/CodexCasper/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0886-possible-bipartition](https://github.com/CodexCasper/DSA/tree/main/0886-possible-bipartition/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -597,8 +601,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/CodexCasper/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0886-possible-bipartition](https://github.com/CodexCasper/DSA/tree/main/0886-possible-bipartition/) | Medium |
 ## Bipartite Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/CodexCasper/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0886-possible-bipartition](https://github.com/CodexCasper/DSA/tree/main/0886-possible-bipartition/) | Medium |
 <!---LeetCode Topics End-->
