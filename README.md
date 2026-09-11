@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/CodexCasper/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/CodexCasper/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/CodexCasper/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1046-last-stone-weight](https://github.com/CodexCasper/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/CodexCasper/DSA/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/CodexCasper/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/CodexCasper/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/CodexCasper/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0767-reorganize-string](https://github.com/CodexCasper/DSA/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/CodexCasper/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/CodexCasper/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/CodexCasper/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
