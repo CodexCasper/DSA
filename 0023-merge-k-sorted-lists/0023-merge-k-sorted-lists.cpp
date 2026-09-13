@@ -1,50 +1,48 @@
-class compare{
-public:
-    bool operator()(ListNode* a , ListNode* b){
-        return a->val > b->val;
-    }
-};
-
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
+//N = total number of nodes across all k linked lists
+//k = number of linked lists
+//TC:O(k logk + n logk) only inserting first ele in pq so let them k logk
+//SC:O(k)
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        //TC:O(n * log k) n is the total no. of nodes across all k linked lists and each operation on minheap takes log k time 
-        //SC:O(k) heap stores at most k nodes 
-        priority_queue<ListNode*,vector<ListNode*>,compare> pq;
-        //head 1->4->5
-        //head 1->3->4
-        //head 2->6
-        // Push heads of all non-empty lists
-        for(auto list : lists){
-            if(list != NULL){
-                pq.push(list); // 1 -> 1 -> 2
+        priority_queue<pair<int,ListNode*> , vector<pair<int,ListNode*>> , greater<pair<int,ListNode*>>> minheap;
+
+        for(int i = 0 ; i < lists.size(); i++) {
+
+            if(lists[i] != NULL) {
+
+                minheap.push({lists[i] -> val , lists[i]});
             }
         }
-        //dummy->0
-        ListNode* dummy = new ListNode(0);
-        //dummy , tail -> 0
+
+        ListNode* dummy = new ListNode(-1);
         ListNode* tail = dummy;
 
-        while(!pq.empty()){
-            //minheap so [1]
-            ListNode* smallest = pq.top();
-            //now minheap is 1 -> 2
-            pq.pop();
-            
-            //0 -> 1
-            tail->next = smallest;
-            //0 -> 1
-            //     tail
-            tail = tail->next;
-            
-            //1 -> 1-> 2
-            //smallest(list1) which is 1 -> 4 -> 5 , not pointing to  NULL
-            if(smallest->next != NULL){
-                //1 -> 2 -> 4 
-                pq.push(smallest->next);
+        while(!minheap.empty()) {
+
+            pair<int,ListNode*> p = minheap.top();
+            minheap.pop();
+
+            ListNode* node = p.second;
+
+            tail -> next = node;
+            tail = tail -> next;
+
+            if(node->next != NULL) {
+                
+                minheap.push({node -> next -> val , node -> next});
             }
         }
-        
-        return dummy->next;
+        return dummy -> next;
     }
 };
