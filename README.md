@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/CodexCasper/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0542-01-matrix](https://github.com/CodexCasper/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/CodexCasper/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0630-course-schedule-iii](https://github.com/CodexCasper/DSA/tree/main/0630-course-schedule-iii/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/CodexCasper/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0695-max-area-of-island](https://github.com/CodexCasper/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/CodexCasper/DSA/tree/master/0704-binary-search) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/CodexCasper/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/CodexCasper/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0502-ipo](https://github.com/CodexCasper/DSA/tree/main/0502-ipo/) | Hard |
+| [0630-course-schedule-iii](https://github.com/CodexCasper/DSA/tree/main/0630-course-schedule-iii/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/CodexCasper/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0767-reorganize-string](https://github.com/CodexCasper/DSA/tree/main/0767-reorganize-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/CodexCasper/DSA/tree/main/0846-hand-of-straights/) | Medium |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/CodexCasper/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/CodexCasper/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0502-ipo](https://github.com/CodexCasper/DSA/tree/main/0502-ipo/) | Hard |
+| [0630-course-schedule-iii](https://github.com/CodexCasper/DSA/tree/main/0630-course-schedule-iii/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/CodexCasper/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0767-reorganize-string](https://github.com/CodexCasper/DSA/tree/main/0767-reorganize-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/CodexCasper/DSA/tree/main/0846-hand-of-straights/) | Medium |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/CodexCasper/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/CodexCasper/DSA/tree/main/0355-design-twitter/) | Medium |
 | [0502-ipo](https://github.com/CodexCasper/DSA/tree/main/0502-ipo/) | Hard |
+| [0630-course-schedule-iii](https://github.com/CodexCasper/DSA/tree/main/0630-course-schedule-iii/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/CodexCasper/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/CodexCasper/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0767-reorganize-string](https://github.com/CodexCasper/DSA/tree/main/0767-reorganize-string/) | Medium |
