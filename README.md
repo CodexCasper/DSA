@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/CodexCasper/DSA/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CodexCasper/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/CodexCasper/DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/CodexCasper/DSA/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/CodexCasper/DSA/tree/main/0735-asteroid-collision/) | Medium |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/CodexCasper/DSA/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/CodexCasper/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/CodexCasper/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/CodexCasper/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/CodexCasper/DSA/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
