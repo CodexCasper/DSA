@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/CodexCasper/DSA/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CodexCasper/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1905-count-sub-islands](https://github.com/CodexCasper/DSA/tree/main/1905-count-sub-islands/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/CodexCasper/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/CodexCasper/DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/CodexCasper/DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/CodexCasper/DSA/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/CodexCasper/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/CodexCasper/DSA/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1905-count-sub-islands](https://github.com/CodexCasper/DSA/tree/main/1905-count-sub-islands/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/CodexCasper/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/CodexCasper/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/CodexCasper/DSA/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1905-count-sub-islands](https://github.com/CodexCasper/DSA/tree/main/1905-count-sub-islands/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/CodexCasper/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CodexCasper/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
