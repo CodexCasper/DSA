@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/CodexCasper/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CodexCasper/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodexCasper/DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/CodexCasper/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/CodexCasper/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/CodexCasper/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/CodexCasper/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/CodexCasper/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/CodexCasper/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/CodexCasper/DSA/tree/main/0079-word-search/) | Medium |
+| [0127-word-ladder](https://github.com/CodexCasper/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0282-expression-add-operators](https://github.com/CodexCasper/DSA/tree/main/0282-expression-add-operators/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0344-reverse-string](https://github.com/CodexCasper/DSA/tree/main/0344-reverse-string/) | Easy |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/CodexCasper/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CodexCasper/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0127-word-ladder](https://github.com/CodexCasper/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/CodexCasper/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/CodexCasper/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/CodexCasper/DSA/tree/main/0200-number-of-islands/) | Medium |
@@ -713,5 +716,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/CodexCasper/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0752-open-the-lock](https://github.com/CodexCasper/DSA/tree/main/0752-open-the-lock/) | Medium |
 <!---LeetCode Topics End-->
