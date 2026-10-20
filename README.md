@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/CodexCasper/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/CodexCasper/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/CodexCasper/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/CodexCasper/DSA/tree/main/0443-string-compression/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/CodexCasper/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0752-open-the-lock](https://github.com/CodexCasper/DSA/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/CodexCasper/DSA/tree/main/0767-reorganize-string/) | Medium |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/CodexCasper/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/CodexCasper/DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/CodexCasper/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/CodexCasper/DSA/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/CodexCasper/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0457-circular-array-loop](https://github.com/CodexCasper/DSA/tree/main/0457-circular-array-loop/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/CodexCasper/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
