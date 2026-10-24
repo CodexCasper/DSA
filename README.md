@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/CodexCasper/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/CodexCasper/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1020-number-of-enclaves](https://github.com/CodexCasper/DSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1034-coloring-a-border](https://github.com/CodexCasper/DSA/tree/main/1034-coloring-a-border/) | Medium |
 | [1046-last-stone-weight](https://github.com/CodexCasper/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/CodexCasper/DSA/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/CodexCasper/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/CodexCasper/DSA/tree/main/0886-possible-bipartition/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/CodexCasper/DSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1034-coloring-a-border](https://github.com/CodexCasper/DSA/tree/main/1034-coloring-a-border/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/CodexCasper/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/CodexCasper/DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1905-count-sub-islands](https://github.com/CodexCasper/DSA/tree/main/1905-count-sub-islands/) | Medium |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/CodexCasper/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/CodexCasper/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/CodexCasper/DSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1034-coloring-a-border](https://github.com/CodexCasper/DSA/tree/main/1034-coloring-a-border/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/CodexCasper/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/CodexCasper/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/CodexCasper/DSA/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/CodexCasper/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/CodexCasper/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/CodexCasper/DSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1034-coloring-a-border](https://github.com/CodexCasper/DSA/tree/main/1034-coloring-a-border/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/CodexCasper/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/CodexCasper/DSA/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1905-count-sub-islands](https://github.com/CodexCasper/DSA/tree/main/1905-count-sub-islands/) | Medium |
