@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CodexCasper/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CodexCasper/DSA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/CodexCasper/DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/CodexCasper/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/CodexCasper/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/CodexCasper/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/CodexCasper/DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/CodexCasper/DSA/tree/main/1034-coloring-a-border/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/CodexCasper/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/CodexCasper/DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1559-detect-cycles-in-2d-grid](https://github.com/CodexCasper/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1905-count-sub-islands](https://github.com/CodexCasper/DSA/tree/main/1905-count-sub-islands/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CodexCasper/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Matrix
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/CodexCasper/DSA/tree/main/1034-coloring-a-border/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/CodexCasper/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/CodexCasper/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/CodexCasper/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/CodexCasper/DSA/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1905-count-sub-islands](https://github.com/CodexCasper/DSA/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/CodexCasper/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/CodexCasper/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1034-coloring-a-border](https://github.com/CodexCasper/DSA/tree/main/1034-coloring-a-border/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/CodexCasper/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/CodexCasper/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/CodexCasper/DSA/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1905-count-sub-islands](https://github.com/CodexCasper/DSA/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/CodexCasper/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -699,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/CodexCasper/DSA/tree/main/0886-possible-bipartition/) | Medium |
 | [1020-number-of-enclaves](https://github.com/CodexCasper/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/CodexCasper/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/CodexCasper/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/CodexCasper/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1905-count-sub-islands](https://github.com/CodexCasper/DSA/tree/main/1905-count-sub-islands/) | Medium |
 ## Graph Theory
