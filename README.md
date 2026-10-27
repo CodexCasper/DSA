@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/CodexCasper/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/CodexCasper/DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/CodexCasper/DSA/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1834-single-threaded-cpu](https://github.com/CodexCasper/DSA/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CodexCasper/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1905-count-sub-islands](https://github.com/CodexCasper/DSA/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/CodexCasper/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/CodexCasper/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CodexCasper/DSA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/CodexCasper/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1834-single-threaded-cpu](https://github.com/CodexCasper/DSA/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CodexCasper/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/CodexCasper/DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Prefix Sum
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/CodexCasper/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/CodexCasper/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/CodexCasper/DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1834-single-threaded-cpu](https://github.com/CodexCasper/DSA/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/CodexCasper/DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/CodexCasper/DSA/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Counting
